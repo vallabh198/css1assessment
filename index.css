@@ -1,0 +1,47 @@
+h1 {
+    color :rgb(204, 32, 32);
+    font-weight :1500;
+}
+
+h2{
+    font-style: italic;
+    font-weight:900;
+    color:orangered;
+}
+
+p{
+    color:rgb(122, 75, 13);
+    font-weight:550;
+}
+
+a{
+    background-color:yellow;
+    color:orangered;
+    font-style: italic;
+    font-weight: 900;
+}
+
+ul, ol{
+    color: #9b2226;
+    font-weight:550;
+}
+
+.point3 {
+    text-decoration: line-through;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.point4{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.points{
+    letter-spacing: 5px;
+}
+
+
+
